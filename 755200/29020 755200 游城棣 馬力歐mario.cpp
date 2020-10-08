@@ -12,6 +12,7 @@ int main() {
         for(int n = height - i + 1; n > 0; n--) {
             cout << "#";
         }
-      cout << "\n";
+        cout << "\n";
     }
 }
+
